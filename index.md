@@ -12,6 +12,10 @@ The goal of developing the C2P2 framework is to provide a novel and comprehensiv
 
 These criteria will be continually analyzed through an iterative process by adding and considering more guidelines as they become available. For example, the recent Brazilian data protection regulation can be considered as a potential candidate that can be evaluated through the C2P2 lens. Likewise, the Malabo Convention may offer additional insights. The Malabo Convention, like many of the other frameworks analyzed in this study, draws heavily from the OECD’s privacy guidelines. In the future, the C2P2 framework could serve as a baseline privacy protection framework for cloud computing that can be adopted by any organization and in any region around the world.
 
+### Method
+
+[HERE](https://tianwang0712.github.io/The-C2P2-Framework/method) are the details on how we developed the initial version of the C2P2 Framework.
+
 
 ### Current List of Criteria
 
