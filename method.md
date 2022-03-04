@@ -33,3 +33,7 @@ Additionally, an average score for each criterion were calculated. For statistic
 ##### Phase 4: Identified and removed overlapping criteria to finalize the first version of the C2P2 framework.
 
 In Phase 4, the three researchers independently reviewed all 114 criteria to identify similarities in meaning and functionality among criteria. Then, the three researchers discussed similar criteria to reach a consensus on whether each criterion was unique. This led to the identification of 107 unique criteria. 
+
+
+
+:arrow_left: [Back](https://tianwang0712.github.io/The-C2P2-Framework/) to the homepage
