@@ -1,1 +1,1 @@
-# c2p2
+# The C2P2 Framework
