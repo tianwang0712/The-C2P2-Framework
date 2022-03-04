@@ -1,8 +1,1 @@
 theme: jekyll-theme-modernist
-
-# Site navigation links
-- title: Home
-  url: /
-
-- title: Method
-  url: /method/
