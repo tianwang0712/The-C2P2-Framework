@@ -1,4 +1,4 @@
-## The Comprehensive Criteria for Privacy Protections (C2P2) Framework
+## The Comprehensive Criteria for Privacy Protections (C2P2) Framework for Cloud Computing
 *An essential roadmap towards an inclusive privacy standard that information researchers and professionals can use to build controls and certifications.*
 
 
@@ -10,9 +10,14 @@
 
 ### Rationale
 
-The goal of developing the C2P2 framework is to provide a novel and comprehensive baseline privacy framework in cloud computing that can be extended and applied widely. It is critical and timely to distinguish between privacy and security controls to provide and maintain privacy protection for users. The approach proposed in this study is a roadmap towards building a comprehensive list of baseline privacy protection criteria that will be refined with the global privacy community's input. In the Internet age, organizations must prioritize their customers' privacy protections so that they can maintain their users' trust—a key factor for organizations' growth. In addition, as ever more invasive technologies advance, personal information can be easily shared through cloud environments across the globe, and the creation of a global privacy protection standard such as C2P2 is more important than ever. Our research shows that while each region in the world has developed some form of privacy framework, our systematic approach is the first-ever comprehensive set of privacy protections, integrating ten standards, guidelines, and frameworks from around the world.
+The goal of developing the C2P2 framework is to provide a novel and comprehensive baseline privacy framework in cloud computing that can be extended and applied widely. It is critical and timely to distinguish between privacy and security controls to provide and maintain privacy protection for users. The approach proposed in this study is a roadmap towards building a comprehensive list of baseline privacy protection criteria that will be refined with the global privacy community's input. <details><summary>*[Read More...]*</summary>
+  <p>
+In the Internet age, organizations must prioritize their customers' privacy protections so that they can maintain their users' trust—a key factor for organizations' growth. In addition, as ever more invasive technologies advance, personal information can be easily shared through cloud environments across the globe, and the creation of a global privacy protection standard such as C2P2 is more important than ever. Our research shows that while each region in the world has developed some form of privacy framework, our systematic approach is the first-ever comprehensive set of privacy protections, integrating ten standards, guidelines, and frameworks from around the world.
 
 These criteria will be continually analyzed through an iterative process by adding and considering more guidelines as they become available. For example, the recent Brazilian data protection regulation can be considered as a potential candidate that can be evaluated through the C2P2 lens. Likewise, the Malabo Convention may offer additional insights. The Malabo Convention, like many of the other frameworks analyzed in this study, draws heavily from the OECD’s privacy guidelines. In the future, the C2P2 framework could serve as a baseline privacy protection framework for cloud computing that can be adopted by any organization and in any region around the world.
+
+  </p>
+</details>
 
 ### Method
 
@@ -20,9 +25,6 @@ These criteria will be continually analyzed through an iterative process by addi
 
 
 ### Current List of Criteria
-
-<details><summary>FULL LIST</summary>
-<p>
 
 | No. | Criteria Name	| Origin	| Definition (from origin source) |
 | --- | --- | --- | --- |
@@ -133,23 +135,6 @@ These criteria will be continually analyzed through an iterative process by addi
 | 105	| Use of Personal Information 	| CCPA 	| ...the use of personal information shall be reasonably necessary and proportionate to achieve the operational purpose for which the personal information was collected or processed or for another operational purpose that is compatible with the context in which the personal information was collected. |
 | 106	| use or disclosure of personal information 	| Australia's Privacy Act 1988  	| entity holds personal information about an individual that was collected for a particular purpose (the primary purpose), the entity must not use or disclose the information for another purpose  |
 | 107	| User Access—DCS-09 	| CSA CCM 	| Physical access to information assets and functions by users and support personnel shall be restricted. |
-
-
-</p>
-</details>
-
-### Test
-
-<details><summary>Test Table</summary>
-<p>
-  
-  | A | B |
-  | --- | --- |
-  | aaa | bbb |
-
-</p>
-</details>
-
 
 
 ### Next Steps
