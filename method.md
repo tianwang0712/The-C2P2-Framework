@@ -36,4 +36,4 @@ In Phase 4, the three researchers independently reviewed all 114 criteria to ide
 
 <br/>
 
-**[Back](https://tianwang0712.github.io/The-C2P2-Framework/) _to the homepage_**
+***[Back](https://tianwang0712.github.io/The-C2P2-Framework/)*** to the homepage
