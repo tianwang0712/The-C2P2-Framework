@@ -1,18 +1,18 @@
-## The Comprehensive Criteria for Privacy Protections (C2P2) Framework for Cloud Computing
+## Developing the Comprehensive Criteria for Privacy Protections (C2P2) Framework for Cloud Computing
 *An essential roadmap towards an inclusive privacy standard that information researchers and professionals can use to build controls and certifications.*
+
+**We invite all privacy advocates, educators, researchers, and scholars to review and provide feedback for our newly developed C2P2 framework for cloud computing.**
 
 
 ### Overview of our C2P2 Framework
 
-> Cloud computing holds the promise of democratizing access to many computer resources, such as software, by effectively outsourcing computing tasks. However, this raises a variety of security and privacy concerns. Researchers and professionals must maintain security and privacy protections when managing data and information in cloud environments. While several security-related strategies and protections have already been established, there is still no comprehensive set of controls or criteria that specifically addresses privacy protection in the cloud. In this paper, we propose an all-encompassing privacy framework for cloud computing: **the Comprehensive Criteria for Privacy Protections (C2P2) framework**. The C2P2 framework was developed through qualitative analysis and evaluation of ten major existing privacy-related documents. This paper aims to present our initial and novel synthesis of the C2P2 framework, for which we found 107 unique privacy criteria across thirteen categories. This is the first assessment of its kind for the current privacy-related frameworks and serves as the first step towards establishing a comprehensive set of privacy protection criteria in cloud computing. We believe this framework provides an essential roadmap towards an inclusive privacy standard that researchers and professionals can use to build controls and certifications.
+> Cloud computing holds the promise of democratizing access to many computer resources, such as software, by effectively outsourcing computing tasks. However, this raises a variety of security and privacy concerns. Researchers and professionals must maintain security and privacy protections when managing data and information in cloud environments. While several security-related strategies and protections have already been established, there is still no comprehensive set of controls or criteria that specifically addresses privacy protection in the cloud. Therefore, we propose an all-encompassing privacy framework for cloud computing: **the Comprehensive Criteria for Privacy Protections (C2P2) framework**. The C2P2 framework was developed through qualitative analysis and evaluation of ten major existing privacy-related documents. This initial and novel synthesis of the C2P2 framework includes 107 unique privacy criteria across thirteen categories. This is the first assessment of its kind for the current privacy-related frameworks and serves as the first step towards establishing a comprehensive set of privacy protection criteria in cloud computing.
 
 
 
 ### Rationale
 
-The goal of developing the C2P2 framework is to provide a novel and comprehensive baseline privacy framework in cloud computing that can be extended and applied widely. It is critical and timely to distinguish between privacy and security controls to provide and maintain privacy protection for users. The approach proposed in this study is a roadmap towards building a comprehensive list of baseline privacy protection criteria that will be refined with the global privacy community's input.In the Internet age, organizations must prioritize their customers' privacy protections so that they can maintain their users' trust—a key factor for organizations' growth. In addition, as ever more invasive technologies advance, personal information can be easily shared through cloud environments across the globe, and the creation of a global privacy protection standard such as C2P2 is more important than ever. Our research shows that while each region in the world has developed some form of privacy framework, our systematic approach is the first-ever comprehensive set of privacy protections, integrating ten standards, guidelines, and frameworks from around the world.
-
-These criteria will be continually analyzed through an iterative process by adding and considering more guidelines as they become available. For example, the recent Brazilian data protection regulation can be considered as a potential candidate that can be evaluated through the C2P2 lens. Likewise, the Malabo Convention may offer additional insights. The Malabo Convention, like many of the other frameworks analyzed in this study, draws heavily from the OECD’s privacy guidelines. In the future, the C2P2 framework could serve as a baseline privacy protection framework for cloud computing that can be adopted by any organization and in any region around the world.
+The goal of developing the C2P2 framework is to provide a novel and comprehensive baseline privacy framework in cloud computing that can be extended and applied widely. It is critical and timely to distinguish between privacy and security controls to provide and maintain privacy protection for users. The approach we proposed is a roadmap towards building a comprehensive list of baseline privacy protection criteria that will be refined with the global privacy community's input. In the Internet age, organizations must prioritize their customers' privacy protections so that they can maintain their users' trust—a key factor for organizations' growth. In addition, as ever more invasive technologies advance, personal information can be easily shared through cloud environments across the globe, and the creation of a global privacy protection standard such as C2P2 is more important than ever. Our research shows that while each region in the world has developed some form of privacy framework, our systematic approach is the first-ever comprehensive set of privacy protections, integrating ten standards, guidelines, and frameworks from around the world. In the future, the C2P2 framework could serve as a baseline privacy protection framework for cloud computing that can be adopted by any organization and in any region around the world.
 
 
 ### Method
@@ -20,9 +20,10 @@ These criteria will be continually analyzed through an iterative process by addi
 [HERE](https://tianwang0712.github.io/The-C2P2-Framework/method) are the details on how we developed the initial version of the C2P2 Framework.
 
 
-### Current List of Criteria
+### List of criteria included in C2P2
+*(Note: The list is in alphabetical order.)*
 
-| No. | Criteria Name	| Origin	| Definition (from origin source) |
+| No. | Criteria Name	| Origin	| Definition (from original source) |
 | --- | --- | --- | --- |
 | 1 	| Access 	| GDPR 	| Data subject shall have the right to obtain from the controller confirmation as to whether or not personal data concerning him or her are being processed, and, where that is the case, access to the personal data |
 | 2 	| Access and accuracy 	| FIPPs 	|  It refers to an individual's ability both to access data about him or herself -- i.e., to view the data in an entity's files -- and to contest that data's accuracy and completeness. |
@@ -142,13 +143,23 @@ This portion of the study has primarily used qualitative analysis to develop the
 1. Wang, T., Hayes, C.M., & Bashir, M. (2022). Developing a Framework of Comprehensive Criteria for Privacy Protections. In Future of Information and Communication Conference (FICC) 2022. Virtual. (In press)
 2. Wang, T. and Bashir, M. (2022). An Analysis of Cloud Certifications’ Performance on Privacy Protections. In Proceedings of the 8th International Conference on Information Systems Security and Privacy - ICISSP, ISBN 978-989-758-553-1, pages 299-306. DOI: 10.5220/0010783200003120
 3. Sharma, T., Wang, T., Giulio, C. D., & Bashir, M. (2020). Towards Inclusive Privacy Protections in the Cloud. In International Conference on Applied Cryptography and Network Security (pp. 337-359). Springer, Cham.
+4. Di Giulio, C., Sprabery, R., Kamhoua, C., Kwiat, K., Campbell, R. H., & Bashir, M. N. (2017, May). IT security and privacy standards in comparison: improving FedRAMP authorization for cloud service providers. In 2017 17th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGRID) (pp. 1090-1099). IEEE.
+5. Di Giulio, C., Sprabery, R., Kamhoua, C., Kwiat, K., Campbell, R. H., & Bashir, M. N. (2017, June). Cloud standards in comparison: Are new security frameworks improving cloud security?. In 2017 IEEE 10th International Conference on Cloud Computing (CLOUD) (pp. 50-57). IEEE.
+6. Di Giulio, C., Sprabery, R., Kamhoua, C., Kwiat, K., Campbell, R. H., & Bashir, M. N. (2017, March). Cloud security certifications: a comparison to improve cloud service provider security. In Proceedings of the Second International Conference on Internet of Things, Data and Cloud Computing (pp. 1-12).
 
 ### Acknowledgement
 
-This project is funded by Cisco[^1].
+This research was supported by Cisco[^1]. We want to thank our colleagues from Cisco who provided insight and expertise that greatly assisted the research. 
+
 
 ### Feedback
 
-We intend to solicit more formal and extensive feedback from the privacy community to continue updating the proposed C2P2 framework, thus we would like to share our project with the cloud privacy community. If you have any questions or suggestions on our C2P2 framework or other related projects, please feel free to contact us by email: tianw7@illinois.edu.
+We intend to solicit more formal and extensive feedback from the privacy community to continue updating the proposed C2P2 framework, thus we would like to share our project with the cloud privacy community. 
+
+Please feel free to provide us feedback by taking this **[SURVEY](https://)**. We would really appreciate any comments or suggestions. 
+
+If you have other questions on our C2P2 framework or other related projects, please feel free to contact us.
+
+* **PI: Prof. Masooda Bashir (mnb@illinois.edu)**
 
 [^1]: [Cisco](https://www.cisco.com/c/en/us/index.html).
