@@ -156,7 +156,7 @@ This research was supported by Cisco[^1]. We want to thank our colleagues from C
 
 We intend to solicit more formal and extensive feedback from the privacy community to continue updating the proposed C2P2 framework, thus we would like to share our project with the cloud privacy community. 
 
-Please feel free to provide us feedback by taking this **[SURVEY](https://)**. We would really appreciate any comments or suggestions. 
+Please feel free to provide us feedback by taking this **[SURVEY](https://ischoolillinois.az1.qualtrics.com/jfe/form/SV_1N8zLyZqE2CQyl8)**. We would really appreciate any comments or suggestions. 
 
 If you have other questions on our C2P2 framework or other related projects, please feel free to contact us.
 
