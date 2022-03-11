@@ -149,7 +149,7 @@ This portion of the study has primarily used qualitative analysis to develop the
 
 ### Acknowledgement
 
-This research was supported by Cisco[^1]. We want to thank our colleagues from Cisco who provided insight and expertise that greatly assisted the research. 
+This research was supported by **[Cisco](https://www.cisco.com/c/en/us/index.html)**. We want to thank our colleagues from Cisco who provided insight and expertise that greatly assisted the research. 
 
 
 ### Feedback
@@ -161,5 +161,3 @@ Please feel free to provide us feedback by taking this **[SURVEY](https://ischoo
 If you have other questions on our C2P2 framework or other related projects, please feel free to contact us.
 
 * **PI: Prof. Masooda Bashir (mnb@illinois.edu)**
-
-[^1]: [Cisco](https://www.cisco.com/c/en/us/index.html).
